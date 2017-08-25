@@ -89,6 +89,8 @@ console.log(data);
 
 Let's build an image carousel.
 
+Take a look: https://becsegal.github.io/coderbabez-wk11-js-7/solution/
+
 There will be forward and back arrows for navigation.
 
 When you are on the first picture, clicking Back should do nothing.
