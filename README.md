@@ -8,7 +8,6 @@ Learn about the array data type and how to use it to store multiple
 ### Vocab
 * var/variable
 * array
-* length
 * index
 
 ### Lesson - Arrays!
