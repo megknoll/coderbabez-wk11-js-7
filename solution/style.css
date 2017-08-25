@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#carousel { 
+  width: 400px;
+}
+
+#carousel img {
+  width: 100%;
+}
+
+#controls {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+#caption {
+  text-align: center;
+}
