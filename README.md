@@ -101,6 +101,8 @@ When you are on the last element, clicking Next should do nothing.
 
 Display a custom caption for each image.
 
+Bonus: Disable the navigation buttons when you reach the end. If you're at the beginning, disable Back. If you're at the end, disable Next.
+
 # Reference:
 
 * https://jsfiddle.net/
