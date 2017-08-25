@@ -8,7 +8,6 @@ Learn about the array data type and how to use it to store multiple
 ### Vocab
 * var/variable
 * array
-* length
 * index
 
 ### Lesson - Arrays!
@@ -25,7 +24,7 @@ var str1 = "coderbabez";
 var str2 = 'classes are so much fun i love them this is the best';
 ```
 
-Each variable stores 1 value.
+The above variables each store a single value.
 
 What if you want to store a lot of data that goes together?
 
