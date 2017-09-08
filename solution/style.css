@@ -1,14 +1,32 @@
 body {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-#carousel { 
+section {
+  display: inline-block;
+  text-align: center;
+  margin-top: 50px
+}
+
+h1{
+  padding: 20px;
+}
+
+#carousel {
   width: 400px;
 }
 
 #carousel img {
   width: 100%;
+}
+
+#next{
+  background: #21252B;
+}
+#back{
+  background: #D4D4D4;
 }
 
 #controls {
@@ -20,4 +38,12 @@ body {
 
 #caption {
   text-align: center;
+}
+
+#mainPhoto{
+  height: 400px;
+}
+.newPhotos{
+  height: 100px;
+  margin: 20px;
 }

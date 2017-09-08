@@ -3,7 +3,7 @@
 ##  Week Eleven - Arrays
 
 ### Objectives
-Learn about the array data type and how to use it to store multiple 
+Learn about the array data type and how to use it to store multiple
 
 ### Vocab
 * var/variable
@@ -71,18 +71,18 @@ You can remove elements from an array:
 ```
 var data = ['a', 'b', 'c', 'd', 'e'];
 data.shift(); // remove the first element
-console.log(data); 
+console.log(data);
 data.splice(1, 1); // remove the 2nd element
-console.log(data); 
+console.log(data);
 data.pop(); // remove the last element
-console.log(data); 
+console.log(data);
 ```
 
 You can change the value of an element:
 ```
 var data = ['a', 'b', 'c', 'd', 'e'];
 data[0] = 'A'; // change the first element
-console.log(data); 
+console.log(data);
 ```
 
 ### Project
@@ -112,4 +112,3 @@ Bonus: Disable the navigation buttons when you reach the end. If you're at the b
 * https://www.w3schools.com/jsref/jsref_shift.asp
 * https://www.w3schools.com/jsref/jsref_unshift.asp
 * https://www.w3schools.com/jsref/jsref_splice.asp
-
